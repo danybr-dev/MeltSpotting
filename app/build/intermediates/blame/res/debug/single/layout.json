@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_meal.xml",
+        "source": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\layout\\fragment_new_meal.xml"
+    },
+    {
+        "merged": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_meal.xml",
+        "source": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\layout\\activity_new_meal.xml"
+    },
+    {
+        "merged": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_camera.xml",
+        "source": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/build/intermediates/res/merged/debug/layout/activity_new_meal.xml",
+        "source": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/layout/activity_new_meal.xml"
+    },
+    {
+        "merged": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/build/intermediates/res/merged/debug/layout/fragment_camera.xml",
+        "source": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/build/intermediates/res/merged/debug/layout/fragment_new_meal.xml",
+        "source": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/layout/fragment_new_meal.xml"
+    },
+    {
+        "merged": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_favorites.xml",
+        "source": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\layout\\item_list_favorites.xml"
+    },
+    {
+        "merged": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/build/intermediates/res/merged/debug/layout/item_list_favorites.xml",
+        "source": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/layout/item_list_favorites.xml"
+    }
+]

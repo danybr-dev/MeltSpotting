@@ -1,0 +1,510 @@
+[
+    {
+        "outputFile": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 53,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 53,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 49,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 49,
+                        "endOffset": 410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 50,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 50,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 49,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 49,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 53,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 53,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 49,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 465,
+                        "endColumn": 49,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 50,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 50,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 47,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 47,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 49,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 49,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 65,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 65,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 67,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 67,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 57,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 53,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 53,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 49,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 49,
+                        "endOffset": 410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 50,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 50,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 49,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 49,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 53,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 53,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 49,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 465,
+                        "endColumn": 49,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 50,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 50,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 47,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 47,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 49,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 49,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 65,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 65,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 67,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 67,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 57,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "/home/daniele/Scrivania/Google Workshop/Sources/recycleview/MealSpotting/C:\\Users\\Daniele\\Desktop\\SVILUPPO\\ANDROID\\Sorgenti\\recycleview\\MealSpotting\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    }
+]
